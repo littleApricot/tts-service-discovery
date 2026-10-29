@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "enabled": true,
+  "api_base_url": "https://proper-number-princeton-fibre.trycloudflare.com",
+  "synthesis_timeout_seconds": 120,
+  "max_text_chars": 300,
+  "voice": "deepseek-sweet",
+  "updated_at": "2026-10-29T14:00:34.316189+00:00"
+}
