@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "enabled": true,
+  "enabled": false,
   "api_base_url": "https://citizen-opening-walt-does.trycloudflare.com",
   "synthesis_timeout_seconds": 120,
   "max_text_chars": 300,
   "voice": "deepseek-sweet",
-  "updated_at": "2026-10-29T16:04:09.516363+00:00"
+  "updated_at": "2026-10-30T11:39:43.453013+00:00"
 }
