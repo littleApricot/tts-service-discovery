@@ -1,9 +1,9 @@
 {
   "version": 1,
   "enabled": true,
-  "api_base_url": "https://mere-disposal-impossible-society.trycloudflare.com",
+  "api_base_url": "https://characterized-joining-defensive-files.trycloudflare.com",
   "synthesis_timeout_seconds": 120,
   "max_text_chars": 300,
   "voice": "deepseek-sweet",
-  "updated_at": "2026-11-10T12:02:12.040051+00:00"
+  "updated_at": "2026-11-10T12:07:45.197287+00:00"
 }
